@@ -1,0 +1,14 @@
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\bin\Debug\net8.0\ccwc.exe
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\bin\Debug\net8.0\ccwc.deps.json
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\bin\Debug\net8.0\ccwc.runtimeconfig.json
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\bin\Debug\net8.0\ccwc.dll
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\bin\Debug\net8.0\ccwc.pdb
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.AssemblyInfo.cs
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.dll
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\refint\ccwc.dll
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.pdb
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ccwc.genruntimeconfig.cache
+C:\Users\jonat\Documents\Github\WC Tool\ccwc\obj\Debug\net8.0\ref\ccwc.dll
