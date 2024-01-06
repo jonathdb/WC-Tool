@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ccwc
-build_property.ProjectDir = C:\Users\jonat\Documents\Github\WC Tool\ccwc\
+build_property.ProjectDir = C:\Users\jonat\Documents\Github\ccwc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

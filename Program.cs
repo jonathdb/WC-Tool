@@ -28,15 +28,20 @@ class Ccwc
 
             case "-w": // Count the number of words in the textfile.
                 int numberOfWords = CountWords(file);
-                Console.WriteLine(numberOfWords);
+                Console.WriteLine(numberOfWords + " " + filePath);
                 break;
 
             case "-m": //Count the number of Characters in the textfile.
                 Console.WriteLine(file.Length + " " + filePath);
                 break;
 
-            default: // Default is blank and should be a combination of -re -l and -w
+            case "-help":
+                Console.WriteLine(" -d - Print the bytecount of the file\n -l - Print the linecount of the file\n -w - Print the wordcount of the file\n -m - Print thecharactercount of the file\n -help - Print this help menu\n - If no arguments are added the program will use -d -l and -w arguments");
+                break;
+
+            default: // Default is blank and should be a combination of -d -l and -w
                 Console.WriteLine(File.ReadAllBytes(filePath).Length + " " + File.ReadAllLines(filePath).Count() + " " + CountWords(file) + " " + filePath);
+                Console.WriteLine("For help, add -help");
                 break;
         }
     }
